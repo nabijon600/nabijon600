@@ -1,4 +1,4 @@
-## Hi I'm Nabijon ⚡
+## Hi I'm Nabijon ⚡ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVuY28xYmc0Nnc5ejZ3aThheGtvZjN0aXFuZDdtNDQ1aXRqNHBuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c1CLe6VoaMviQz0s6z/giphy.webp">
 
 <!--
 **nabijon600/nabijon600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
